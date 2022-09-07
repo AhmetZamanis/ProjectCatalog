@@ -1,6 +1,11 @@
 # Project Catalog
 Catalog of my example analyses on Github. See the individual README.md file in each repository for more detail.
 
+[Kaggle Competition - House Prices Regression](https://github.com/AhmetZamanis/Kaggle-House-Prices-Regression-FeatureEng)
+\
+Feature engineering, MRMR feature selection and XGBoost modeling for the Kaggle House Prices Regression competition. Best submission score (September 2022): 0.12143 RMSLE, 271th place, top 8%.
+\
+\
 [Generalized Additive Models - Concrete Strength Analysis](https://github.com/AhmetZamanis/ConcreteStrengthGAM)
 \
 Predicting concrete compressive strength using GAM regression, as a non-linear function of the mixture components. Visualization of the results with 3D interactive Plotly plots.
