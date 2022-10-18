@@ -1,6 +1,12 @@
 # Project Catalog
-Catalog of my example analyses on Github. See the individual README.md file in each repository for more detail.
-
+Catalog of my previous analyses and projects. See the individual README.md file in each repository for more detail.
+\
+\
+[Imbalanced classification - Loan requests analysis](https://github.com/AhmetZamanis/LoanRequestClassification)
+\
+Imbalanced classification modeling with loan requests dataset. Hyperparameter tuning, performance benchmarking and performance metrics interpretation with mlr3.
+\
+\
 [Kaggle Competition - House Prices Regression](https://github.com/AhmetZamanis/Kaggle-House-Prices-Regression-FeatureEng)
 \
 Feature engineering, MRMR feature selection and XGBoost modeling for the Kaggle House Prices Regression competition. Best submission score (September 2022): 0.12143 RMSLE, 271th place, top 8%.
